@@ -392,7 +392,3 @@ The future of business content creation lies not in choosing between human and A
 5. Business Report Writing Standards and Guidelines (2024)
 
 ---
-
-**Document Classification:** Internal Use  
-**Version:** 1.0  
-**Last Updated:** October 22, 2025
