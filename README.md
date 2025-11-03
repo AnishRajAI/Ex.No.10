@@ -3,8 +3,8 @@ Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 # BUSINESS REPORTS AND CASE STUDIES WITH PROMPT PATTERNS
 
-# Registration Number: 212222230010 <br>
-# Date: <br>
+## Reg No: 212222230010 <br>
+## Date: <br>
 
 ---
 
